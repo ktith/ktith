@@ -57,4 +57,5 @@ Here are a few things I've picked up along my learning journey.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tit_khem80509?label=Follow)](https://twitter.com/tit_khem80509)
 [![Linkedin: ktith](https://img.shields.io/badge/-ktith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktith)](https://www.linkedin.com/in/ktith/)
-[![Instagram: oleandro.ferreira](https://img.shields.io/badge/-k__tith?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k__tith/)](https://www.instagram.com/k__tith/)
+[![Instagram: k__tith](https://img.shields.io/badge/-k__tith?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k__tith/)](https://www.instagram.com/k__tith/)
+[![Telegram: k_tith](https://img.shields.io/badge/-k_tith?style=flat-square&logo=Telegram&logoColor=white&link=https://www.tme.com/k_tith/)](https://www.tme.com/k_tith/)
