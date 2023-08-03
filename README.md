@@ -31,25 +31,6 @@ Here are a few things I've picked up along my learning journey.
 - [Filament Apex Charts](https://filamentphp.com/plugins/apex-charts)
 - [Brazilian Form Fields](https://filamentphp.com/plugins/brazilian-form-fields)
 
-## Lives
-
-### Beer and Code
-
-[Dominando o Filament, com Leandro Ferreira | Live Code #001](https://www.youtube.com/watch?v=B2HL572A3f0)
-
-[![Dominando o Filament, com Leandro Ferreira](https://raw.githubusercontent.com/leandrocfe/bac-checkout-example/master/screenshots/live.png)](https://www.youtube.com/watch?v=B2HL572A3f0)
-
-### Tio Jobs - Live 1
-
-[Desvendando o Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=qwojScrW_FU)
-
-[![Desvendando o Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live1.png)](https://www.youtube.com/watch?v=qwojScrW_FU)
-
-### Tio Jobs - Live 2
-
-[Avançando no Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=z5StCXCT7mQ)
-
-[![Avançando no Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live2.png)](https://www.youtube.com/watch?v=z5StCXCT7mQ)
 
 ## 📫 Get in touch
 
@@ -58,4 +39,5 @@ Here are a few things I've picked up along my learning journey.
 [![Twitter Follow](https://img.shields.io/twitter/follow/tit_khem80509?label=Follow)](https://twitter.com/tit_khem80509)
 [![Linkedin: ktith](https://img.shields.io/badge/-ktith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktith)](https://www.linkedin.com/in/ktith/)
 [![Instagram: k__tith](https://img.shields.io/badge/-k__tith?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k__tith/)](https://www.instagram.com/k__tith/)
-[![Telegram: k_tith](https://img.shields.io/badge/-k_tith?style=flat-square&logo=Telegram&logoColor=white&link=https://www.tme.com/k_tith/)](https://www.tme.com/k_tith/)
+[![Telegram: k_tith](https://img.shields.io/badge/-k_tith?style=float&logo=Telegram&logoColor=white&label=k_tith&labelColor=black&color=black&cacheSeconds=black
+)](https://www.tme.com/k_tith/)
