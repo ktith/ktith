@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 ![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Asterisk](https://img.shields.io/badge/Asterisk-f6772f?style=for-the-badge&logo=php&logoColor=white)
 
-## :yt:  Latest Videos
+## 📖  Latest Videos
 
 - [How to Install Laravel Valet on Windows OS Part 1](https://www.youtube.com/watch?v=tW_L-ms-J2I)
 - [How to Install Laravel Valet on Windows OS Part 2](https://www.youtube.com/watch?v=2ejeiDriWXo)
